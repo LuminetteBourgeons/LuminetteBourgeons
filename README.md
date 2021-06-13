@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hewwo! 👋
+OwO what's this??
 
-<!--
-**LuminetteBourgeons/LuminetteBourgeons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Luminette, an informatics engineering student, community organizer and enthusiast.
+- 🔭 I’m currently working on this github profile 😅.
+- 🌱 I’m currently learning **everything!**
+- 👯 I’m looking to collaborate with another bot developer
+- ⚡ Fun fact: I also draw ;) *(and always get excited when I see another discord bot developer ❤️)*
 
-Here are some ideas to get you started:
+## How to reach me?
+- 👩‍💻 My [LinkedIn][https://www.linkedin.com/in/baby-aisha-maritza-virginia-80b483203/]
+- 🎮 My [Discord Server][https://discord.gg/TKDAb8DjT9]
+- 📷 My [Instagram][https://www.instagram.com/aishienia/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coffee? Pleeaaasssseeee 🥺🥺🥺
+- ☕️ My [Ko-Fi][https://ko-fi.com/childe_bot]

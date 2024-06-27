@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I'm Luminette</h1>
-<h4 align="center">a data scientist, machine learning developer, and community manager </h4>
+<h4 align="center">a data scientist, machine learning developer, and an experienced community manager (yes, I'm still exploring so many things...)</h4>
 </div>
 
 <div align="center">
@@ -9,7 +9,13 @@
 </div>
 
 -----
-
+<p align="center">
+  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=LuminetteBourgeons&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" />
+  </a>
+</p>
+     
 <br /><br /><br />
 <div>
 <samp>
@@ -53,7 +59,7 @@
      </samp>
   </div>    
   <samp>
-  <br/>
+
   <h2 align="center"> Contributions </h2>
 <a href="https://github-readme-activity-graph.vercel.app">
   <img alt="Luminette's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LuminetteBourgeons&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
@@ -61,6 +67,24 @@
   </samp>
 <br/>
 
+<div>
+  <samp>
+    <h2 align="center">Contact me:</h2>
+    <p align="center">
+      <br/>
+      <a href="" target="blank"><img align="center"
+         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="ezzud" height="30"/></a>
+      <a href="mailto:luminettegrain@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="ezzud" height="30"/></a>
+      <a href="https://instagram.com/aishienia" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="ezzud_dev" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
 
 
 -----

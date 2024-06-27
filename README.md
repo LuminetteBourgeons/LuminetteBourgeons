@@ -9,6 +9,22 @@
 </div>
 
 -----
+
+<br /><br /><br />
+<div>
+<samp>
+<h2 align="center">Discord</h2>
+  <p align="center">
+    <a href="" target="blank">
+     <img  align="center" 
+           src="https://discord.c99.nl/widget/theme-1/809244553768861706.png"
+           alt="Luminette Discord" />
+    </a>
+  </p>
+ </samp>
+</div>
+
+
 <br /><br /><br />
 <div>
 <samp>

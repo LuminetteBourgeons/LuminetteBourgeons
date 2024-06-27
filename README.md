@@ -10,7 +10,7 @@
 
 -----
 <p align="center">
-  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+  <a href="https://github.com/LuminetteBourgeons" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=LuminetteBourgeons&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" />
   </a>

@@ -81,7 +81,7 @@
       <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
          alt="ezzud" height="30"/></a>
-      <a href="mailto:luminettegrain@gmail.com" target="blank"><img align="center"
+      <a href="mailto:luminettebourgeons@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="ezzud" height="30"/></a>
       <a href="https://instagram.com/aishienia" target="blank"><img align="center"

@@ -10,7 +10,7 @@
 
 <div align="center">
 <h1 align="center">✧ Hello, I'm <a href="https://luminette.carrd.co/" target="blank">Luminette</a> ✧</h1>
-<h4 align="center">People often calls me Lumi/Minet. I'm a Web Developer undercover as a Data Scientist and Machine Learning Developer. I have a whole 2 years experience as a Community Manager & Social Media Specialist. (I don't even know how to classify myself anymore)</h4>
+<h4 align="center">People often calls me Lumi/Minet. I'm a Web Developer and Designer undercover as a Data Scientist and Machine Learning Developer. I have a whole 2 years experience as a Community Manager & Social Media Specialist. (I don't even know how to classify myself anymore)</h4>
 <h4 align="center">You might also wanna check my <a href="https://www.linkedin.com/in/baby-aisha-maritza-virginia/" target="blank">LinkedIn</a> ^^</h4>
 </div>
 

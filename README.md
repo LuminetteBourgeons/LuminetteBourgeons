@@ -36,7 +36,7 @@ Creative tech studio that helps Indonesian SMEs and underrepresented creators sh
 Cozy, small-scale games for a global audience, starting on Roblox.
 
 ### 4. Lyra
-A learning platform for practical, future-proof skills: **AI automation (n8n)**, **business management**, **data science**, and more. Reasoning-first, gamified, and built for Indonesian learners.
+A game-based learning platform for **math** and **English**. Reasoning-first, gamified, and built for Indonesian learners.
 
 <br />
 

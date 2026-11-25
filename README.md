@@ -1,9 +1,6 @@
-<!-- ✧ Put your ASCII loop here: save it as assets/luminette-loop.gif, then uncomment ✧ -->
-<!--
 <p align="center">
   <img src="assets/luminette-loop.gif" alt="Luminette: name, Aether, BXP, Game Studio" width="100%" />
 </p>
--->
 
 <h1 align="center">✧ Baby Aisha Maritza Virginia ✧</h1>
 <p align="center"><b>Luminette</b> · Creative Technologist & Digital Alchemist · Jakarta, Indonesia</p>

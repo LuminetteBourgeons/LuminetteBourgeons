@@ -14,7 +14,7 @@
   <a href="https://backstageprodigy.com/luminette/portfolio"><img src="https://img.shields.io/badge/Portfolio-5b1919?style=for-the-badge&labelColor=2c2428&color=5b1919&logoColor=ece3e2" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/baby-aisha-maritza-virginia/"><img src="https://img.shields.io/badge/LinkedIn-742222?style=for-the-badge&labelColor=2c2428&color=742222&logoColor=ece3e2" alt="LinkedIn" /></a>
   <a href="mailto:babyaishaluminette@gmail.com"><img src="https://img.shields.io/badge/Email-b81b1b?style=for-the-badge&labelColor=2c2428&color=b81b1b&logoColor=ece3e2" alt="Email" /></a>
-  <a href="https://instagram.com/aishienia"><img src="https://img.shields.io/badge/Instagram-8d716e?style=for-the-badge&labelColor=2c2428&color=8d716e&logoColor=ece3e2" alt="Instagram" /></a>
+  <a href="https://instagram.com/luminette88"><img src="https://img.shields.io/badge/Instagram-8d716e?style=for-the-badge&labelColor=2c2428&color=8d716e&logoColor=ece3e2" alt="Instagram" /></a>
 </p>
 
 <br />

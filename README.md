@@ -1,96 +1,83 @@
-<h1 align="center"></h1>
+<!-- 🎨 VISUAL SLOT: banner / header image -->
+<p align="center">
+  <!-- <img src="path/to/banner.png" alt="Luminette" width="100%" /> -->
+</p>
 
-<div align="center">
-  <img  src="https://github.com/LuminetteBourgeons/LuminetteBourgeons/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<h1 align="center"></h1>
-<br />
-
-<div align="center">
-<h1 align="center">✧ Hello, I'm <a href="https://luminette.carrd.co/" target="blank">Luminette</a> ✧</h1>
-<h4 align="center">People often calls me Lumi/Minet. I'm a Web Developer and Designer undercover as a Data Scientist and Machine Learning Developer. I have a whole 2 years experience as a Community Manager & Social Media Specialist. (I don't even know how to classify myself anymore)</h4>
-<h4 align="center">You might also wanna check my <a href="https://www.linkedin.com/in/baby-aisha-maritza-virginia/" target="blank">LinkedIn</a> ^^</h4>
-</div>
+<h1 align="center">✧ Baby Aisha Maritza Virginia ✧</h1>
+<p align="center"><b>Luminette</b> · Creative Technologist & Digital Alchemist · Jakarta, Indonesia</p>
 
 <p align="center">
-  <a href="https://github.com/LuminetteBourgeons" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=LuminetteBourgeons&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" />
-  </a>
+  Combining design, technology, and storytelling to craft immersive digital experiences.<br/>
+  I build communities, develop custom tools, and create content that bridges creativity and innovation.
 </p>
-<br />
-     
-<br />
-<div>
-<samp>
-<h2 align="center">✧ Discord ✧</h2>
-  <p align="center">
-    <a href="" target="blank">
-     <img  align="center" 
-           src="https://discord.c99.nl/widget/theme-1/809244553768861706.png"
-           alt="Luminette Discord" />
-    </a>
-  </p>
- </samp>
-</div>
 
+<p align="center">
+  <a href="https://backstageprodigy.com/luminette/portfolio">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/baby-aisha-maritza-virginia/">LinkedIn</a> ·
+  <a href="mailto:babyaishaluminette@gmail.com">Email</a> ·
+  <a href="https://instagram.com/aishienia">Instagram</a>
+</p>
 
 <br />
-<div>
-<samp>
-    <h2 align="center">✧ My Github stats (it's pathetic, I know) ✧</h2>
-      <br/>
-            <p align="center">
-        <a href="https://github.com/LuminetteBourgeons/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminetteBourgeons&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
-          alt="Luminette - Top Languages" /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/LuminetteBourgeons/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuminetteBourgeons&theme=tokyonight&layout=compact&hide_border=true"
-          alt="LuminetteBourgeons - Top Languages/repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuminetteBourgeons&theme=tokyonight&layout=compact&hide_border=true"
-          alt="LuminetteBourgeons :: Top Languages/commit" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/LuminetteBourgeons/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LuminetteBourgeons&show_icons=true&theme=tokyonight&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminetteBourgeons&theme=tokyonight&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-  <samp>
 
-  <h2 align="center">✧ My Contributions ✧</h2>
-<a href="https://github-readme-activity-graph.vercel.app">
-  <img alt="Luminette's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LuminetteBourgeons&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-<br/>
+## ✧ What I'm building
 
-<div>
-  <samp>
-    <h2 align="center">✧ Contact me ✧</h2>
-    <p align="center">
-      <br/>
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-         alt="ezzud" height="30"/></a>
-      <a href="mailto:luminettebourgeons@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="ezzud" height="30"/></a>
-      <a href="https://instagram.com/aishienia" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="ezzud_dev" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
+<!-- 🎨 VISUAL SLOT: project cards / logos -->
 
+### 1. Aether: a virtual office run by an AI
+> *Dream. Build. Automate.*
 
------
+A low-poly, isometric 3D space station that works as a virtual office. Visitors are greeted by **Aether**, a formless "Jarvis" presence (voice + subtitles) that oversees every AI employee, makes the small decisions itself, writes reports, and keeps the finances in view.
+- Central hub + 4 divisions: Observatory, Game Studio, Digital Creative Production, AI Automation
+- ~20 themed rooms, 14 simulated AI employees, and an activity feed with approvals and a finance view
+- Status: working prototype (sample data, backend next). Built with three.js, single-file, no build step.
+
+### 2. [Backstage Prodigy](https://backstageprodigy.com)
+Creative tech studio that helps Indonesian SMEs and underrepresented creators ship branding, websites, apps, and authentic digital experiences.
+
+### 3. Game Studio
+Cozy, small-scale games for a global audience, starting on Roblox.
+
+### 4. Lyra
+A learning platform for practical, future-proof skills: **AI automation (n8n)**, **business management**, **data science**, and more. Reasoning-first, gamified, and built for Indonesian learners.
+
+<br />
+
+## ✧ Experience
+
+- **R&D Lead**, AIAVATAR Indonesia (Dec 2025 – Jun 2026): solo applied-AI research, internal tooling (KBMS), AI workshops and OKRs
+- **Product Manager**, AIAVATAR Indonesia (Dec 2024 – Dec 2025): took the AIAVATAR mobile app from concept to launch
+- **Community Manager**, BlockchainWorks, SHINTA VR, and UNPAS (2020 – 2023): Web3 and tech communities, content, custom Discord bots
+
+<br />
+
+## ✧ Skills
+
+<!-- 🎨 VISUAL SLOT: skill icons / badges -->
+
+- **Design:** UI/UX, Figma prototyping, branding, layout, visual communication, creative direction
+- **Data & AI:** Python, TensorFlow, machine learning, deep learning, NLP, data visualization, statistics
+- **Automation & product:** n8n, product management, OKRs, knowledge systems
+- **Web:** Junior Web Developer (BNSP), SQL (Oracle Academy)
+- **Community & marketing:** community management, content, video production, website optimization
+- **Languages:** Indonesian, English (fluent)
+
+<br />
+
+## ✧ Education
+
+- **B.CS in Information Technology**, Mercu Buana University · GPA 3.92/4.0, Cum Laude, Outstanding Graduate (2020 – 2024)
+- **Bangkit Academy 2023**, Machine Learning path (Google, GoTo, Traveloka) · capstone: Jejak.nesia
+- **Fresh Graduate Academy Digital Talent Scholarship**, Machine Learning (Kominfo, Digitalent, IBM, Dicoding) · 162 hours
+- **Associate Data Scientist** microcredential (Kemdikbudristek, 2021)
+
+<br />
+
+## ✧ Activity
+
+<!-- 🎨 VISUAL SLOT: GitHub stats / contribution graph / snake -->
+<p align="center">
+  <img src="grid-snake.svg" alt="Contribution snake" />
+</p>
+
+<!-- 🎨 VISUAL SLOT: footer -->
